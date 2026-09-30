@@ -37,13 +37,17 @@ markdown語法常見於如Notion、Obsidian等筆記軟體。
 Ans:
 
 - 創建並使用該分支
+
 ![alt text](image-1.png)
 
 - 創建新內容
+
 ![alt text](image-3.png)
 
 - 將欲變動之內容選擇出來，放入預備區；確定上傳時提交內容，並產生版本。
+
 ![alt text](image-2.png)
 
 - 在所在的分支(branch)變動從本地端倉庫推向伺服器端的倉庫進行更新。
+
 ![alt text](image-4.png)
